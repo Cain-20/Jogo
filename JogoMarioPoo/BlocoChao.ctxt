@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BlocoChao
+comment0.text=\r\n\ Verifica\ e\ atualiza\ posi\u00E7\u00E3o\ do\ bloco\ de\ ch\u00E3o.\r\n
+comment1.params=x\ y
+comment1.target=BlocoChao(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ started()
+numComments=4

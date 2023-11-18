@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Mundo
+comment0.text=\r\n\ Inicializa\ todos\ os\ atributos\ necess\u00E1rios\ para\ o\ start\ do\ jogo\ e\ cria\ o\ \r\n\ *\ universo\ tendo\ como\ base\ a\ imagem\ "MundoMario.png\ substituindo\ as\ cores\ \r\n\ *\ *\ pelos\ objetos\ devidos.\r\n
+comment1.params=imgBlocos\ vidas
+comment1.target=Mundo(greenfoot.GreenfootImage,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=blocos\ vidas
+comment3.target=void\ criaMundo(greenfoot.GreenfootImage,\ int)
+comment4.params=
+comment4.target=void\ inicia()
+comment5.params=
+comment5.target=void\ stopped()
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Jogador
+comment0.text=\r\n\ Verifica\ os\ movimentos\ do\ jogador,\ verifica\ gravidade,\ se\ foi\ morto\ pela\ \r\n\ goomba\ e\ atualiza\u00E7\u00E3o\ do\ mapa.\r\n
+comment1.params=
+comment1.target=Jogador()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

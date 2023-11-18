@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PlanoDeFundo
+comment0.text=\r\n\ Atualiza\ a\ posi\u00E7\u00E3o\ da\ imagem\ de\ plano\ de\ fundo.\r\n
+comment1.params=x\ y
+comment1.target=PlanoDeFundo(int,\ int)
+numComments=2

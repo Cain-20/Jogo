@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bandeira
+comment0.text=\r\n\ Cria\ a\ Bandeira\ da\ linha\ de\ chegada\ em\ sua\ posi\u00E7\u00E3o\ devida.\r\n
+comment1.params=x\ y
+comment1.target=Bandeira(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ inicia()
+numComments=4

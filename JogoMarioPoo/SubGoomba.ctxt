@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SubGoomba
+comment1.params=X\ Y
+comment1.target=SubGoomba(int,\ int)
+comment1.text=\r\n\ Classe\ para\ verificar\ se\ jogador\ consegue\ matar\ inimigo\ Goomba.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

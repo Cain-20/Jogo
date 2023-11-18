@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Goomba
+comment0.text=\r\n\ Classe\ do\ inimigo\ Goomba,\ inicializa\ seus\ atributos,\ realiza\ seus\ movimentos,\r\n\ verifica\ sua\ vida,\ e\ ajusta\ sua\ localiza\u00E7\u00E3o\ com\ a\ gravidade.\ \r\n
+comment1.params=
+comment1.target=Goomba()
+comment2.params=
+comment2.target=void\ seMata()
+comment3.params=x\ y
+comment3.target=void\ setRelLocation(int,\ int)
+comment4.params=
+comment4.target=int\ getRelX()
+comment5.params=
+comment5.target=int\ getRelY()
+comment6.params=
+comment6.target=void\ movimenta()
+comment7.params=
+comment7.target=void\ gravidade()
+numComments=8

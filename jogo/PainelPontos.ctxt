@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PainelPontos
+comment0.text=\r\n\ Cria\u00E7\u00E3o\ do\ painel\ de\ pontos\ no\ canto\ superior\ esquerdo,\r\n
+comment1.params=
+comment1.target=PainelPontos()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

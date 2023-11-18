@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TextoMenu
+comment0.text=\r\n\ Incializa\ o\ menu\ de\ textos,\ seta\ a\ m\u00FAsica\ tema\ e\ a\ imagem\ base\ pra\ \r\n\ cria\u00E7\u00E3o\ do\ mundo.\r\n
+comment1.params=
+comment1.target=TextoMenu()
+comment2.params=obj\ acao
+comment2.target=void\ clicado(java.lang.Object,\ int)
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=acao
+comment4.target=void\ runAction(int)
+numComments=5

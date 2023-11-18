@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PainelVidas
+comment0.text=\r\n\ Painel\ de\ vidas\ do\ jogador\ demonstrado\ no\ canto\ superior\ esquerdo.\r\n
+comment1.params=qtdVidas
+comment1.target=PainelVidas(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

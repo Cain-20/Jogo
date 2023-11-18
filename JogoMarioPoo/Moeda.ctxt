@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Moeda
+comment0.text=\r\n\ Cria\ a\ moeda\ com\ sua\ posi\u00E7\u00E3o,\ caso\ haja\ interse\u00E7\u00E3o\ com\ o\ jogador,\ as\ moedas\ \r\n\ *\ s\u00E3o\ removidas.\r\n
+comment1.params=x\ y
+comment1.target=Moeda(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ inicia()
+numComments=4

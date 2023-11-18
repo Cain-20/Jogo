@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Body
+comment1.params=
+comment1.target=Body()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=inputArray
+comment3.target=void\ statusToBody(boolean[])
+comment4.params=inputLocation
+comment4.target=void\ locationToBody(int[])
+comment5.params=
+comment5.target=void\ bodyAnimation()
+comment6.params=xAdjust\ yAdjust
+comment6.target=void\ directionAdjust(int,\ int)
+comment7.params=xAdjust\ yAdjust\ shootingDirection
+comment7.target=void\ specialDirectionAdjust(int,\ int,\ int)
+comment8.params=
+comment8.target=boolean\ bodyCheckDamage()
+numComments=9

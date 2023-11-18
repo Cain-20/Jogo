@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ Inicializa\ foto\ de\ fundo\ do\ gameOver\ quando\ o\ jogador\ perde\ o\ jogo.\r\n
+comment1.params=
+comment1.target=GameOver()
+numComments=2

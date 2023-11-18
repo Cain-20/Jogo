@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PlayerShot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlayerShot\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=direction
+comment1.target=PlayerShot(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=boolean\ atWorldEdge()
+comment5.params=
+comment5.target=void\ checkCollision()
+comment6.params=
+comment6.target=void\ remove()
+comment7.params=
+comment7.target=boolean\ bulletUsed()
+comment8.params=min\ max
+comment8.target=int\ numGenerator(int,\ int)
+numComments=9

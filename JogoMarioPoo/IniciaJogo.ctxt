@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IniciaJogo
+comment1.params=
+comment1.target=IniciaJogo()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=estado
+comment3.target=void\ checkMouse(boolean)
+numComments=4

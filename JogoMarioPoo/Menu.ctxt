@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Inicializa\ foto\ de\ fundo\ do\ menu\ principal\ com\ suas\ dimens\u00F5es\ e\ chama\ a\ classe\ \r\n\ "IniciaJogo"\ para\ mostrar\ o\ texto\ na\ tela,.\r\n
+comment1.params=
+comment1.target=Menu()
+numComments=2

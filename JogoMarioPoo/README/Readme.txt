@@ -1,0 +1,9 @@
+Ao instalar o arquivo compactado que contém a pasta com os demais conteúdos relacionados ao jogo, é necessário extrair essa pasta para a localização desejada pelo usuário e iniciar o GreenFoot.
+
+Uma vez que o GreenFoot tenha sido inicializado, o usuário deve procurar pela opção "Scenario" na barra de ferramentas e, ao clicar nela, será aberto um menu. Nesse menu, é necessário escolher a opção "Open" e selecionar a pasta correspondente ao jogo. Isso permitirá que o jogo seja aberto no GreenFoot, com a tela inicial congelada. Portanto, o usuário deve clicar no botão "run" e, em seguida, dar um clique na mensagem que aparece na tela, "Iniciar jogo".
+
+Com o jogo já em andamento, o usuário terá o controle do personagem "Mario" e poderá executar os seguintes comandos: andar para frente, pressionando a tecla "D"; andar para trás, pressionando a tecla "A"; e pular, pressionando a tecla "W".
+
+O objetivo do jogo é ajudar o Mario a atravessar todo o cenário, superando diversos obstáculos e tendo muito cuidado com as "Gombas", uma espécie que se move de um lado para o outro. Embora essas criaturas não ataquem o usuário, ao entrar em contato com elas, o personagem perde uma vida das três disponíveis. A única maneira de derrotá-las é pulando e aterrissando diretamente sobre elas, ou simplesmente pulando por cima delas e continuando o caminho.
+
+Além disso, o usuário também precisa coletar o máximo de moedas possíveis para obter a pontuação máxima. O jogo é concluído quando o Mario alcança o final do cenário, após superar todos os obstáculos e coletar a maior quantidade de moedas existentes no jogo.
